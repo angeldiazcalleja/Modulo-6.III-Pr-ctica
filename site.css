@@ -1,0 +1,40 @@
+
+body {
+    background-color: azure;
+}
+
+
+.Title {
+    font-size: 38px;
+    color: rgb(23, 22, 14);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    font-family: cursive;
+
+}
+
+
+.line {
+    height: 8px;
+    background-color: rgb(18, 34, 7);
+}
+
+.Pasos {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.img {
+    margin-top: 35px;
+    margin-left: 700px;
+}
+
+.Contact {
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 12px;
+}
